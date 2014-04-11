@@ -1,7 +1,7 @@
-compadre-ipsum
+Compadre Ipsum
 ==============
 
 
 http://compadreipsum.com.br
 
-O lorem ipsum que e o tchan, tchan!!!
+O lorem ipsum que é o tchan, tchan!!!
